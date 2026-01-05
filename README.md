@@ -1,4 +1,5 @@
 # apnacollege
 this is my initial repository 
 <br>
-author = manku
+author = manku 
+mayank
